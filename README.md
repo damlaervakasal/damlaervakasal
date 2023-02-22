@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damla Erva Kasal </h1>
-<h5 align="center">I am a 3nd year computer engineering student at Pamukkale University</h4>
+<h5 align="center">I am a 3rd year computer engineering student at Pamukkale University</h4>
 
 
 
