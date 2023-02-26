@@ -26,3 +26,6 @@
 
 <br>
 </p>
+
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=damlaervakasal&theme=github-dark&hide_border=true&border_radius=)](https://git.io/streak-stats)
