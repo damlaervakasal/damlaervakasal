@@ -25,7 +25,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
-<br>
+
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=damlaervakasal&theme=github-dark&hide_border=true&border_radius=)](https://git.io/streak-stats)
